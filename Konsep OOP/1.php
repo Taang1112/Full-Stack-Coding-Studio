@@ -15,3 +15,4 @@ class Product
     }
 }
 $product1 = new product('Smartphone', 5000000, 'Smartphone terbaru dengan kamera berkualitas tinggi');
+$product2 = new product('ROG', 50000000, 'Smartphone terbaru dengan build quality terbaik');
