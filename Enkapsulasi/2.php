@@ -3,8 +3,9 @@ class mobil {
     private $warna;
     private $merk;
     private $tahun;
+    
 
-    public function _construct($warna, $merk, $tahun) {
+    public function __construct($warna, $merk, $tahun) {
         $this->warna=$warna;
         $this->merk=$merk;
         $this->tahun=$tahun;
