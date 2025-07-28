@@ -3,7 +3,7 @@ class Kendaraan{
      public $jumlahRoda;
      public $merk;
     public function suaraKendaraan(){
-        echo "rawrrr";
+        echo "rawrr";
     }
 }
 
